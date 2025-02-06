@@ -1,0 +1,7 @@
+The corrected CSS using the `calc()` function with spaces around the operators:
+
+```css
+.element { width: calc(100% - 10px); }
+```
+
+Ensure spaces are present between the operator and the operands within the `calc()` function to avoid parsing errors and ensure the calculation works correctly.
